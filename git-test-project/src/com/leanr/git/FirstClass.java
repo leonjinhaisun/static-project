@@ -10,6 +10,8 @@ public class FirstClass {
         System.out.println("hello git project!");
         System.out.println("hello git project!");
         System.out.println("hello git project!");
+
+        System.out.println("打印一个日志...................");
         // hello test
     }
 
